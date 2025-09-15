@@ -1,3 +1,7 @@
+Student Id - 700773849
+Name: Satya Varalakshmi Komirisetti
+
+
 # Gradient-Descent-for-Linear-Regression
 Implement linear regression using Gradient Descent from scratch (without using scikit-learn’s LinearRegression). 
 
