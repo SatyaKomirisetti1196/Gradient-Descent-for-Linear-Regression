@@ -1,5 +1,4 @@
-Student Id - 700773849
-Name: Satya Varalakshmi Komirisetti
+
 
 
 # Gradient-Descent-for-Linear-Regression
